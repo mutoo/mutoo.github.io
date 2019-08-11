@@ -1,1 +1,2 @@
+google.com, pub-5843202476853272, DIRECT, f08c47fec0942fa0
 subdomain=blog.mutoo.im
